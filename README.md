@@ -11,11 +11,11 @@
 
 ### 批量重命名
 
-<video src="https://raw.githubusercontent.com/Ryziii/quark-drive-rename/main/screenshots/sample.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/57966321-7049-4758-8cc0-f943c1f3b1c4
 
 ### 单文件 AI 重命名
 
-<video src="https://raw.githubusercontent.com/Ryziii/quark-drive-rename/main/screenshots/Single_sample.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/e2a9c562-5075-48a5-9b56-d52ea09279a8
 
 ## 功能
 
